@@ -17,8 +17,8 @@ When your app is activated, it will know which activation type is happening so i
 These samples will allow you to discover how to build your own Game Bar widget.
 
 ## Build Status
-Master Branch
-[![Build Status](https://microsoft.visualstudio.com/Xbox.Apps/_apis/build/status/XboxGameBar/XboxGameBarSamples_CI?branchName=master)](https://microsoft.visualstudio.com/Xbox.Apps/_build/latest?definitionId=50221&branchName=master)
+
+[![CI Build](https://github.com/Linx-ESP/XboxGameBarSamples/actions/workflows/build-ci.yml/badge.svg)](https://github.com/Linx-ESP/XboxGameBarSamples/actions/workflows/build-ci.yml)
 
 ## Documentation
 
