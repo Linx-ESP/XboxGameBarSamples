@@ -6,6 +6,9 @@ on:
       - master
       - prerelease
 
+permissions:
+  contents: read
+
 jobs:
   build:
     name: Build Xbox Game Bar Samples
